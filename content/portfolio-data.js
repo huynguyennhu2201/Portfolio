@@ -164,7 +164,7 @@ export const portfolioContent = {
       },
       {
         tag: "Automation",
-        title: "Nail Salon Booking Automation",
+        title: "Email Booking Automation",
         description:
           "End-to-end booking system combining a public booking form, an AI-assisted Gmail worker (FastAPI + Groq Llama 3.3) and a Streamlit manager dashboard, with Supabase storage and Google Calendar sync.",
         demoHref: "https://bookingemailapp-nail-shop.streamlit.app/",
