@@ -50,8 +50,8 @@ export const portfolioContent = {
       },
       {
         label: "GitHub",
-        value: "github.com/BrumeH221",
-        href: "https://github.com/BrumeH221",
+        value: "github.com/huynguyennhu2201",
+        href: "https://github.com/huynguyennhu2201",
         icon: "GH",
       },
       {
@@ -151,7 +151,7 @@ export const portfolioContent = {
           "A Streamlit machine learning app that predicts loan approval status from applicant and loan details. Compares Decision Tree, Random Forest, AdaBoost, and XGBoost models and returns a live approval probability.",
         demoHref: "https://loan-prediction-app-jbqhaftkaelvhcaer5dbmb.streamlit.app/",
         demoLabel: "Live demo",
-        href: "https://github.com/BrumeH221/loan-prediction-app",
+        href: "https://github.com/huynguyennhu2201/loan-prediction-app",
         linkLabel: "Code",
       },
       {
@@ -159,7 +159,7 @@ export const portfolioContent = {
         title: "London Commercial Property Analysis",
         description:
           "Scraped Rightmove commercial property listings with Python (BeautifulSoup, Pandas, Requests) and built a Tableau dashboard analysing asking prices by business sector and distance from Bank Station.",
-        href: "https://github.com/BrumeH221/london-commercial-property-analysis",
+        href: "https://github.com/huynguyennhu2201/london-commercial-property-analysis",
         linkLabel: "Code",
       },
       {
@@ -169,7 +169,7 @@ export const portfolioContent = {
           "End-to-end booking system combining a public booking form, an AI-assisted Gmail worker (FastAPI + Groq Llama 3.3) and a Streamlit manager dashboard, with Supabase storage and Google Calendar sync.",
         demoHref: "https://bookingemailapp-nail-shop.streamlit.app/",
         demoLabel: "Live demo",
-        href: "https://github.com/BrumeH221/Booking_email_app_nail",
+        href: "https://github.com/huynguyennhu2201/Booking_email_app_nail",
         linkLabel: "Code",
       },
     ],
